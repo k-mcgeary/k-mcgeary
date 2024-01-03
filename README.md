@@ -4,7 +4,9 @@
 
 - <b>Azure Project</b>
   - [Creating a live SOC/Honeynet in Microsoft Azure](https://github.com/k-mcgeary/Azure-Project)
-
+ 
+- <b>Networking Project</b>
+  - [Examples of real-world networks](https://github.com/k-mcgeary/Networking-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
