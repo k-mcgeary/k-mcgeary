@@ -7,6 +7,9 @@
  
 - <b>Networking Project</b>
   - [Examples of real-world networks](https://github.com/k-mcgeary/Networking-Project)
+ 
+-<b>Windows-Forensics-Project</b>
+  - [Forensic Analysis on Windows VM](https://github.com/k-mcgeary/Windows-Forensics/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -15,7 +18,7 @@
 [linkedin]: https://www.linkedin.com/in/kevin-mcgeary-359a88279/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**k-mcgeary/k-mcgeary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
