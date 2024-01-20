@@ -2,16 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Project</b>
   - [Creating a live SOC/Honeynet in Microsoft Azure](https://github.com/k-mcgeary/Azure-Project)
- 
-- <b>Governance, Risk, and Compliance Project</b>
+
   - [Governance, Risk, and Compliance Audit/Policy Practice](https://github.com/k-mcgeary/GRC-Project/tree/main)
 
-- <b>Networking Project</b>
   - [Examples of real-world networks](https://github.com/k-mcgeary/Networking-Project)
  
-- <b>Windows Forensics Project</b>
   - [Forensic Analysis on Windows VM](https://github.com/k-mcgeary/Windows-Forensics/tree/main)
  
 <h2> 🤳 Connect with me:</h2>
